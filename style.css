@@ -159,14 +159,15 @@ img{
 .purchase-info .btn{
     cursor: pointer;
     color: white;
-    width: 120px;
-    height: 38px;
+    width: 170px;
+    height: 45px;
+    border: none;
 }
 .purchase-info .btn:first-of-type{
-    background: #256eff;
+    background: #f7e709;
 }
 .purchase-info .btn:last-of-type{
-    background: #f64749;
+    background: #fa9d11;
 }
 .purchase-info .btn:hover{
     opacity: 0.9;
@@ -181,7 +182,7 @@ img{
     justify-content: center;
     width: 32px;
     height: 32px;
-    color: #000;
+    /* color: #000; */
     border: 1px solid #000;
     margin: 0 0.2rem;
     border-radius: 50%;
